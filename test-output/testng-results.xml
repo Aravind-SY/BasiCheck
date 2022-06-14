@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10430" started-at="2022-06-07T12:55:42Z" finished-at="2022-06-07T12:55:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10430" started-at="2022-06-07T12:55:42Z" finished-at="2022-06-07T12:55:53Z">
+      <class name="org.working.note.testNG.OrderTestNg">
+        <test-method status="PASS" signature="launch()[pri:0, instance:org.working.note.testNG.OrderTestNg@2133c8f8]" name="launch" is-config="true" duration-ms="3240" started-at="2022-06-07T18:25:42Z" finished-at="2022-06-07T18:25:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="timeCheck()[pri:0, instance:org.working.note.testNG.OrderTestNg@2133c8f8]" name="timeCheck" is-config="true" duration-ms="3165" started-at="2022-06-07T18:25:46Z" finished-at="2022-06-07T18:25:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timeCheck -->
+        <test-method status="PASS" signature="fpage()[pri:0, instance:org.working.note.testNG.OrderTestNg@2133c8f8]" name="fpage" duration-ms="4001" started-at="2022-06-07T18:25:49Z" finished-at="2022-06-07T18:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fpage -->
+        <test-method status="PASS" signature="timeout()[pri:0, instance:org.working.note.testNG.OrderTestNg@2133c8f8]" name="timeout" is-config="true" duration-ms="0" started-at="2022-06-07T18:25:53Z" finished-at="2022-06-07T18:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timeout -->
+      </class> <!-- org.working.note.testNG.OrderTestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
